@@ -1,8 +1,12 @@
 # SomeEngine.Next
 
-**C# game engine technology by YOJO — in development.**
+**An Apache 2.0 open-source C# engine for humans and AI agents — in development.**
 
-SomeEngine.Next brings entity systems, graphics contracts, render-graph execution, asset ownership, and structured jobs into a modular C# foundation for real-time applications.
+**Build with agents. Own every layer.**
+
+SomeEngine.Next connects a lean, customizable core to a complete C# technology stack. Entity systems, structured jobs, assets, graphics contracts, and render-graph execution form an open foundation for real-time applications. Humans and AI agents can inspect, compose, and extend the same systems as first-class participants in the architecture.
+
+Advanced rendering and UI capabilities are developed as composable libraries. The product direction includes cluster rendering, automatic LOD, advanced shadows and lighting, performance-focused ECS, dependable jobs, and modern reactive UI. Geometry and material representations live at the rendering-library layer, giving projects room to bring their own architecture.
 
 This repository is the public development snapshot of YOJO's SomeEngine.Next project. Source, architectural notes, samples, and tests describe the current engineering work; the product continues to evolve.
 
@@ -37,7 +41,9 @@ Platform-specific graphics tests have their own requirements. `SomeEngine.slnx` 
 
 ## Evaluation and licensing
 
-For product evaluation, commercial use, integration, or licensing terms, contact **hello@yojo.lol**. Third-party components retain their respective licenses and notices.
+The engine is licensed under the [Apache License 2.0](LICENSE). See [NOTICE](NOTICE) and the license and notice files accompanying third-party components for their respective terms.
+
+For product evaluation, integration, technical collaboration, or support, contact **hello@yojo.lol**.
 
 ## YOJO
 
