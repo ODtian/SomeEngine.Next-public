@@ -47,4 +47,4 @@ For product evaluation, integration, technical collaboration, or support, contac
 
 ## YOJO
 
-YOJO develops high-performance C# game engine technology and client frameworks. Business contact: 82 Sunset Drive, HOBARTVILLE, Queensland 4724, Australia.
+YOJO develops high-performance C# game engine technology and client frameworks. Business contact: 556 Whispering Trl, Middletown, DE 19709, United States.
